@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_curso"
+  site-url: "https://JuanDiaz12000.github.io/nbdev_curso"
+  description: "TAller de nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/JuanDiaz12000/nbdev_curso"
